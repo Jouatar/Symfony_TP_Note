@@ -199,4 +199,3 @@ $ php bin/console doctrine:fixtures:load
 ```
 
 Une fois ces commandes effectuées, votre site doit être accessible et votre base de données doit contenir des produits.
-# Symfony_TP_Note
